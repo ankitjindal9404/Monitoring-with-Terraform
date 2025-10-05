@@ -36,5 +36,5 @@ Before running this project, make sure you have the following:
 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/provisioning-monitoring-terraform.git](https://github.com/ankitjindal9404/Monitoring-with-Terraform.git)
+git clone https://github.com/your-username/provisioning-monitoring-terraform.git](https://github.com/ankitjindal9404/Monitoring-with-Terraform.git
 cd Monitoring-with-Terraform
